@@ -15,9 +15,10 @@
 <a href="https://codeforces.com/profile/yazmeyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yazmeyaa" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
+  <kbd>
 <h4 align="left">Front-end:</h4>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img
@@ -56,6 +57,7 @@
   />
 </a>
 </div>
+</kbd>
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -152,7 +154,6 @@
 </p>
 <br />
 
-<br/>
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmeyaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="yazmeyaa" /></div>
 <br/>
