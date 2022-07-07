@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my own projects](https://github.com/yazmeyaa/weather-app-frontend)
 
-- 🤝 I’m looking for help with **my applications <3**
+- 🤝 I’m looking for help with **my applications**
 
 - 💬 Ask me about **react, typescript, ESNext**
 
