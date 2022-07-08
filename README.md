@@ -52,6 +52,7 @@
         alt="webpack" width="40" height="40" />
     </a>
 </div>
+&nbsp;
 </kbd>
 <div align="center">
   <kbd>
