@@ -18,9 +18,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
       alt="yazmeyaa" height="30" width="40" /></a>
 </p>
-
 <h3 align="center">Languages and Tools:</h3>
-
 <div align="left">
   <kbd>
     <h3 align="center">Front-end:</h3>
@@ -48,20 +46,16 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" />
     </a>
-
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
         alt="webpack" width="40" height="40" />
     </a>
-
 </div>
 </kbd>
-
-
 <div align="left">
   <kbd>
-    <h3 align="center">Backe-end skills:</h3>
+    <h3 align="center">Back-end skills:</h3>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
         alt="express" width="40" height="40" />
@@ -78,53 +72,36 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
         height="40" />
     </a>
-
 </div>
 &nbsp;
 </kbd>
-
 <div align="left">
   <kbd>
     <h3 align="center">Other skills:</h3>
-
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
       </a>
-
-
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
           width="40" height="40" />
       </a>
-
-
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
       </a>
-
-
       <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
       </a>
-
-
     <br />
   </kbd>
   &nbsp;
 </div>
-
-
-
-
 <div>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmeyaa&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="yazmeyaa" /></div>
 <br />
-
 <div>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=yazmeyaa&show_icons=true&theme=dark&locale=en"
     alt="yazmeyaa" /></div>
 <br />
-
 <div>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazmeyaa&theme=dark"
     alt="yazmeyaa" /></div>
