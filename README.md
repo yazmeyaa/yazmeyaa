@@ -19,7 +19,7 @@
       alt="yazmeyaa" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <kbd>
     <h3 align="center">Front-end:</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@
     </a>
 </div>
 </kbd>
-<div align="left">
+<div align="center">
   <kbd>
     <h3 align="center">Back-end skills:</h3>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -75,7 +75,7 @@
 </div>
 &nbsp;
 </kbd>
-<div align="left">
+<div align="center">
   <kbd>
     <h3 align="center">Other skills:</h3>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
