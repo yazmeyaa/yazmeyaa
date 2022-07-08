@@ -17,7 +17,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div align="center">
+<div align="left">
   <kbd>
 <h3 align="center">Front-end:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
