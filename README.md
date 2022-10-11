@@ -54,9 +54,9 @@
 </div>
 &nbsp;
 </kbd>
-<div align="center">
+<div>
   <kbd>
-    <h3 align="center">Back-end skills:</h3>
+    <h3>Back-end skills:</h3>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
         alt="express" width="40" height="40" />
@@ -76,9 +76,9 @@
 </div>
 &nbsp;
 </kbd>
-<div align="center">
+<div>
   <kbd>
-    <h3 align="center">Other skills:</h3>
+    <h3>Other skills:</h3>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
       </a>
@@ -96,13 +96,13 @@
   </kbd>
   &nbsp;
 </div>
-<div>&nbsp;<img align="center"
+<div>&nbsp;<img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmeyaa&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="yazmeyaa" /></div>
 <br />
-<div>&nbsp;<img align="center"
+<div>&nbsp;<img
     src="https://github-readme-stats.vercel.app/api?username=yazmeyaa&show_icons=true&theme=dark&locale=en"
     alt="yazmeyaa" /></div>
 <br />
-<div>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazmeyaa&theme=dark"
+<div>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazmeyaa&theme=dark"
     alt="yazmeyaa" /></div>
