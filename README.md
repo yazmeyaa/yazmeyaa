@@ -1,7 +1,7 @@
 <h1 align="center">Hello, i am Evgeniy</h1>
 <h3 align="center">A Front-end ReactJS developer</h3>
 
-- 🔭 I’m currently working on [my own projects](https://github.com/yazmeyaa/weather-app-frontend)
+- 🔭 I’m currently working on [my own projects](https://github.com/yazmeyaa?tab=repositories)
 
 - 🤝 I’m looking for help with **my applications**
 
