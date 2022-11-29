@@ -9,7 +9,7 @@
 
 <div align="center">
   <kbd>
-  <h3 align="center">Languages and Tools:</h3>
+  <h2 align="center">Languages and Tools:</h2>
     <h3 align="center">Front-end:</h3>
     <div align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
