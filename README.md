@@ -1,27 +1,17 @@
 <h1 align="center">Hello, i am Evgeniy</h1>
-<h3 align="center">A Front-end ReactJS developer</h3>
+<h3 align="center">A Frontend/Fullstack developer</h3>
 
-- 🔭 I’m currently working on [my own projects](https://github.com/yazmeyaa?tab=repositories)
+- 🔭 I’m currently working on my own projects
 
 - 🤝 I’m looking for help with **my applications**
 
-- 💬 Ask me about **react, typescript, ESNext**
+- 📫 How to reach me by [email](mailto:evgenijantonenkov456@gmail.com) or in [telegram](https://t.me/future_undefined)
 
-- 📫 How to reach me **evgenijantonenkov456@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yazmeyaa/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/yazmeyaa/" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/yazmeyaa" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-      alt="yazmeyaa" height="30" width="40" /></a>
-</p>
-<h3 align="center">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <kbd>
+  <h3 align="center">Languages and Tools:</h3>
     <h3 align="center">Front-end:</h3>
+    <div align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5" width="40" height="40" />
@@ -51,13 +41,18 @@
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
         alt="webpack" width="40" height="40" />
     </a>
-</div>
-&nbsp;
-</kbd>
-<div>
-  <kbd>
+    <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="40" height="40"/>
+    </a>
+    </div>
+
+  <div align="center">
     <h3>Back-end skills:</h3>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql" width="40" height="40" />
+    </a>
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
         alt="express" width="40" height="40" />
     </a>
@@ -73,11 +68,9 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
         height="40" />
     </a>
-</div>
-&nbsp;
-</kbd>
-<div>
-  <kbd>
+  </div>
+
+<div align="center">
     <h3>Other skills:</h3>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
@@ -93,16 +86,15 @@
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
       </a>
     <br />
-  </kbd>
   &nbsp;
 </div>
-<div>&nbsp;<img
+
+  </kbd>
+</div>
+
+<div align="center">&nbsp;<img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmeyaa&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="yazmeyaa" /></div>
 <br />
-<div>&nbsp;<img
-    src="https://github-readme-stats.vercel.app/api?username=yazmeyaa&show_icons=true&theme=dark&locale=en"
-    alt="yazmeyaa" /></div>
-<br />
-<div>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazmeyaa&theme=dark"
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazmeyaa&theme=dark"
     alt="yazmeyaa" /></div>
