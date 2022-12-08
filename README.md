@@ -91,9 +91,5 @@
   </kbd>
 </div>
 <br />
-<div align="center">&nbsp;<img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmeyaa&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="yazmeyaa" /></div>
-<br />
 <div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazmeyaa&theme=dark"
     alt="yazmeyaa" /></div>
