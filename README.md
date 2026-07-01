@@ -23,7 +23,6 @@ core stack    Go, PostgreSQL, Linux, Docker, net/http, templ, htmx
 systems       Event Bus, WebSocket/SSE, background workers, installers, releases
 other work    TypeScript ECS, data structures, canvas/WebGL, small automation tools
 principles    stdlib first, Linux-first, clear interfaces, no heavy dependencies
-website       https://magic-lizard.ru
 ```
 
 ## Working On
@@ -74,5 +73,4 @@ type Approach struct {
 
 - GitHub: [github.com/yazmeyaa](https://github.com/yazmeyaa)
 - Telegram: [@future_undefined](https://t.me/future_undefined)
-- Website: [magic-lizard.ru](https://magic-lizard.ru)
 - Email: [evgenijantonenkov456@gmail.com](mailto:evgenijantonenkov456@gmail.com)
