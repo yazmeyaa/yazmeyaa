@@ -1,0 +1,69 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">yazmeyaa profile header</title>
+  <desc id="desc">A dark technical profile banner for Eugene Antonenkov, focused on Go, Linux, PostgreSQL, Hosthalla, and explicit system architecture.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.48" stop-color="#101820"/>
+      <stop offset="1" stop-color="#071b18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="40" x2="1040" y2="310" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="0.5" stop-color="#a7f3d0"/>
+      <stop offset="1" stop-color="#facc15"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.4 0 0 0 0 0.92 0 0 0 0 0.85 0 0 0 0.45 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+
+  <path d="M70 262 C190 208 255 284 380 226 C512 165 574 196 692 132 C813 66 929 118 1125 60" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <path d="M92 278 C210 230 288 300 398 245 C522 184 590 218 710 154 C835 88 936 138 1106 88" stroke="#67e8f9" stroke-width="1.5" stroke-linecap="round" opacity="0.28"/>
+
+  <g filter="url(#softGlow)">
+    <circle cx="130" cy="254" r="5" fill="#67e8f9"/>
+    <circle cx="376" cy="227" r="5" fill="#a7f3d0"/>
+    <circle cx="690" cy="133" r="5" fill="#67e8f9"/>
+    <circle cx="944" cy="113" r="5" fill="#facc15"/>
+    <circle cx="1088" cy="68" r="5" fill="#a7f3d0"/>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="70" y="66" width="508" height="198" rx="12" fill="#070b12" fill-opacity="0.78" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect x="70" y="66" width="508" height="34" rx="12" fill="#ffffff" fill-opacity="0.06"/>
+    <circle cx="94" cy="83" r="5" fill="#f87171"/>
+    <circle cx="112" cy="83" r="5" fill="#facc15"/>
+    <circle cx="130" cy="83" r="5" fill="#4ade80"/>
+
+    <text x="96" y="136" fill="#e5f4ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="26" font-weight="700">yazmeyaa</text>
+    <text x="96" y="168" fill="#9fb5c4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">software developer / architect</text>
+    <text x="96" y="206" fill="#a7f3d0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">go + linux + postgres</text>
+    <text x="96" y="232" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">hosthalla: agents, metrics, realtime ui</text>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="660" y="92" width="378" height="164" rx="12" fill="#07110f" fill-opacity="0.66" stroke="#a7f3d0" stroke-opacity="0.18"/>
+    <text x="690" y="132" fill="#d9fff3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">type System struct {</text>
+    <text x="720" y="164" fill="#9fb5c4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">stdlibFirst bool</text>
+    <text x="720" y="191" fill="#9fb5c4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">observable  bool</text>
+    <text x="720" y="218" fill="#9fb5c4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">magic       int // 0</text>
+    <text x="690" y="242" fill="#d9fff3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">}</text>
+  </g>
+
+  <g opacity="0.44">
+    <path d="M1050 262 H1132 M1050 285 H1110 M1050 308 H1150" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <path d="M1010 262 H986 M1010 285 H966 M1010 308 H998" stroke="#67e8f9" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="1030" cy="262" r="6" stroke="#a7f3d0" stroke-width="2"/>
+    <circle cx="1030" cy="285" r="6" stroke="#facc15" stroke-width="2"/>
+    <circle cx="1030" cy="308" r="6" stroke="#67e8f9" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,18 +1,78 @@
-<h1 align="center">Hi 👋, I'm Eugene</h1>
+<img src="./assets/header.svg" alt="yazmeyaa profile header" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yazmeyaa&label=Profile%20views&color=0e75b6&style=flat" alt="yazmeyaa" /> </p>
+# Eugene Antonenkov / yazmeyaa
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codesandbox.com/yazmeyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yazmeyaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yazmeyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yazmeyaa" height="30" width="40" /></a>
-</p>
+> Software Developer / Software Architect.  
+> XXVII yo. Extreme developer.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build backend systems, infrastructure tools, and small engines that are meant
+to be understood, operated, and changed without ceremony.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmeyaa&show_icons=true&locale=en&layout=compact" alt="yazmeyaa" /></p>
+My home territory is **Go**, **Linux**, **PostgreSQL**, and explicit
+architecture. I like software with a visible skeleton: clear boundaries,
+small interfaces, minimal dependencies, observable runtime behavior, and enough
+room to grow without becoming theatrical.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazmeyaa&show_icons=true&locale=en" alt="yazmeyaa" /></p>
+I am not chasing magic. I prefer knowing where the wire goes.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazmeyaa&" alt="yazmeyaa" /></p>
+## Current Signal
+
+```txt
+main focus    Hosthalla: server management, agents, metrics, notes, SSH, realtime UI
+core stack    Go, PostgreSQL, Linux, Docker, net/http, templ, htmx
+systems       Event Bus, WebSocket/SSE, background workers, installers, releases
+side quests   TypeScript ECS, data structures, canvas/WebGL, small automation tools
+principles    stdlib first, Linux-first, clear interfaces, no heavy dependencies
+website       https://magic-lizard.ru
+```
+
+## Working On
+
+| Project | Shape |
+| --- | --- |
+| [hosthalla](https://github.com/yazmeyaa/hosthalla) | A Go platform for host management, monitoring, agents, notes, SSH access, and realtime server UI. |
+| [draug-engine](https://github.com/yazmeyaa/draug-engine) | A lightweight TypeScript ECS game engine focused on deterministic gameplay logic. |
+| [bitmap-index](https://github.com/yazmeyaa/bitmap-index) | TypeScript bitmap indexing for set operations and bitmasking. |
+| [ts-sparse-set](https://github.com/yazmeyaa/ts-sparse-set) | Sparse set collections for ECS-style and ID-based data. |
+| [vector2d](https://github.com/yazmeyaa/vector2d) | 2D vector math for games, physics, and graphical experiments. |
+| [telegram_sticker_converter](https://github.com/yazmeyaa/telegram_sticker_converter) | Go tooling for converting Telegram stickers and animations. |
+
+## Toolbox
+
+```txt
+languages      Go, TypeScript, Python, C/C++
+backend        net/http, PostgreSQL, Redis, RabbitMQ, Docker, Nginx
+frontend       React, Svelte/SvelteKit, Angular, templ, htmx
+infra          Linux, systemd, Docker Compose, single-node Kubernetes
+release        GitHub Actions, Goreleaser, GitHub Releases, installer scripts
+```
+
+## Design Bias
+
+```go
+type DesignBias struct {
+    Dependencies       string // as few as the problem allows
+    Interfaces         string // behavior first, implementation second
+    Architecture       string // clean, explicit, boring where possible
+    Runtime            string // observable, debuggable, Linux-first
+    Scaling            string // considered early, optimized when evidence appears
+    LockIn             string // avoided unless the trade-off is honest
+}
+```
+
+## Things I Keep Returning To
+
+- Backend architecture and system design.
+- Distributed systems without unnecessary mysticism.
+- PostgreSQL, queues, event-driven flows, and monitoring.
+- Linux internals, systemd, networking, containers, and server infrastructure.
+- WebSocket/SSE, realtime fan-out, agents, installers, and release pipelines.
+- ECS, bitsets, sparse sets, deterministic simulation, and game-dev internals.
+- Drawing with colored pencils, history, economics, and root causes of things.
+
+## Links
+
+- GitHub: [github.com/yazmeyaa](https://github.com/yazmeyaa)
+- Telegram: [@future_undefined](https://t.me/future_undefined)
+- Website: [magic-lizard.ru](https://magic-lizard.ru)
+- Email: [evgenijantonenkov456@gmail.com](mailto:evgenijantonenkov456@gmail.com)
