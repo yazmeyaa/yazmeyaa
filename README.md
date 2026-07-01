@@ -5,30 +5,30 @@
 > Software Developer / Software Architect.  
 > XXVIII yo. Extreme developer.
 
-I build backend systems, infrastructure tools, and small engines that are meant
-to be understood, operated, and changed without ceremony.
+I build backend systems, infrastructure tools, and small engines. I care about
+code that is easy to understand, operate, debug, and change over time.
 
-My home territory is **Go**, **Linux**, **PostgreSQL**, and explicit
-architecture. I like software with a visible skeleton: clear boundaries,
-small interfaces, minimal dependencies, observable runtime behavior, and enough
-room to grow without becoming theatrical.
+My main stack is **Go**, **Linux**, and **PostgreSQL**. I like explicit
+architecture: clear boundaries, small interfaces, minimal dependencies, and
+runtime behavior that can be observed and debugged.
 
-I am not chasing magic. I prefer knowing where the wire goes.
+I prefer simple, explicit systems where the important parts are visible and
+easy to reason about.
 
-## Current Signal
+## Current Focus
 
 ```txt
 main focus    Hosthalla: server management, agents, metrics, notes, SSH, realtime UI
 core stack    Go, PostgreSQL, Linux, Docker, net/http, templ, htmx
 systems       Event Bus, WebSocket/SSE, background workers, installers, releases
-side quests   TypeScript ECS, data structures, canvas/WebGL, small automation tools
+other work    TypeScript ECS, data structures, canvas/WebGL, small automation tools
 principles    stdlib first, Linux-first, clear interfaces, no heavy dependencies
 website       https://magic-lizard.ru
 ```
 
 ## Working On
 
-| Project | Shape |
+| Project | Description |
 | --- | --- |
 | [hosthalla](https://github.com/yazmeyaa/hosthalla) | A Go platform for host management, monitoring, agents, notes, SSH access, and realtime server UI. |
 | [draug-engine](https://github.com/yazmeyaa/draug-engine) | A lightweight TypeScript ECS game engine focused on deterministic gameplay logic. |
@@ -47,28 +47,28 @@ infra          Linux, systemd, Docker Compose, single-node Kubernetes
 release        GitHub Actions, Goreleaser, GitHub Releases, installer scripts
 ```
 
-## Design Bias
+## How I Usually Design Things
 
 ```go
-type DesignBias struct {
-    Dependencies       string // as few as the problem allows
-    Interfaces         string // behavior first, implementation second
-    Architecture       string // clean, explicit, boring where possible
-    Runtime            string // observable, debuggable, Linux-first
-    Scaling            string // considered early, optimized when evidence appears
-    LockIn             string // avoided unless the trade-off is honest
+type Approach struct {
+    Dependencies string // use as few as the problem allows
+    Interfaces   string // describe behavior, not implementation details
+    Architecture string // keep boundaries clear and explicit
+    Runtime      string // make the system observable and debuggable
+    Scaling      string // think ahead, optimize when there is evidence
+    LockIn       string // avoid it unless the trade-off is worth it
 }
 ```
 
 ## Things I Keep Returning To
 
 - Backend architecture and system design.
-- Distributed systems without unnecessary mysticism.
+- Distributed systems explained in practical terms.
 - PostgreSQL, queues, event-driven flows, and monitoring.
 - Linux internals, systemd, networking, containers, and server infrastructure.
 - WebSocket/SSE, realtime fan-out, agents, installers, and release pipelines.
 - ECS, bitsets, sparse sets, deterministic simulation, and game-dev internals.
-- Drawing with colored pencils, history, economics, and root causes of things.
+- Drawing with colored pencils, history, economics, and understanding why things work the way they do.
 
 ## Links
 
